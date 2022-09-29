@@ -12,7 +12,7 @@
       "Small2 Small2 Small2 Medium1 Medium1 Medium1 Small3 Small3 Small3 Lg Lg Lg";
     height: 200vh;
     overflow: hidden;
-    grid-gap: 0px;
+    grid-gap: 20px;
 }
 
 .container > div {
@@ -27,7 +27,7 @@
     background-color: #ffcc40;
     text-align: center;
     padding: 110px;
-    border: 2px solid black;
+    grid-gap: 20px;
     }
   
 .Sidebar{ 
@@ -39,7 +39,6 @@
     background-color: #40CEF5;
     padding: 240px;
     padding-left: 40%;
-    border: 2px solid black;
 
     }
 
@@ -47,7 +46,6 @@
     grid-area: Small; 
     background-color: #ff8360;
     padding: 110px;
-    border: 2px solid black;
 
     }
 
@@ -55,7 +53,6 @@
     grid-area: Small1; 
     background-color: #ff8360;
     padding: 110px;
-    border: 2px solid black;
 
     }
     
@@ -64,7 +61,6 @@
     background-color: #ff8360;
     padding: 110px;
     margin-bottom: -50px;
-    border: 2px solid black;
 
 
 } 
@@ -74,7 +70,6 @@
     background-color: #ff8360;
     padding: 110px;
     margin-bottom: -50px;
-    border: 2px solid black;
 
     }
 
@@ -82,7 +77,6 @@
     grid-area: Medium; 
     background-color: #0EFAEE;
     padding: 110px;
-    border: 2px solid black;
 
     }
 
@@ -91,7 +85,6 @@
     background-color: #0EFAEE;
     padding: 110px;
     margin-bottom: -50px;
-    border: 2px solid black;
 
 
     }
@@ -100,7 +93,6 @@
     grid-area: Main; 
     background-color: #ff4f4f;
     padding: 110px;
-    border: 2px solid black;
 
     }
 
@@ -108,7 +100,6 @@
     grid-area: Quote; 
     background-color: pink;
     padding: 110px;
-    border: 2px solid black;
 
     }
   
@@ -117,7 +108,6 @@
     background-color: #7dce82;
     padding: 110px;
     margin-bottom: -50px;
-    border: 2px solid black;
 
 
         }
@@ -126,7 +116,6 @@
     grid-area: img; 
     background-color: #7dce82;
     padding: 110px;
-    border: 2px solid black;
 
     }
 
@@ -136,7 +125,6 @@ footer {
     text-align: center;
     margin-top: 0px;
     font-family: 'Courier New', Courier, monospace;
-    border: 2px solid black;
 
 
 }
